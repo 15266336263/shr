@@ -1,0 +1,13 @@
+.page li{
+	list-style-type: none;
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    color: #337ab7;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin : 0px -1px 10px 0px; 
+}
